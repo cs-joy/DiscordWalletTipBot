@@ -8,7 +8,7 @@
     "discord.js": "^11.4.2",
     "embed-creator": "^1.2.4",
     "jsonpath": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.5.0",
     "node-config": "^0.0.2",
     "numeral": "^2.0.6",
